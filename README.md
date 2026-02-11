@@ -1,26 +1,31 @@
-# Adithya 
+# Hi, I’m Adithya
 
-## About Me
-I am a **VLSI enthusiast** with a passion for **chip design, RTL development, and digital logic**. I believe that **great hardware starts with strong fundamentals and precise design**.
+I’m an Electronics engineering student interested in digital design, embedded systems, and software development. I enjoy working on ideas that connect hardware with code and learning how real products are built, tested, and improved.
 
-- **Current Focus:** Verilog, SystemVerilog, and ASIC design  
-- **Learning:** Physical Design and Timing Closure  
-- **Interests:** EDA tools, FPGA prototyping, and silicon optimization  
-- **Expertise:** Digital design, CMOS logic, and chip architecture  
+---
 
 ## Skills
 
-**Hardware Design:** Verilog | SystemVerilog | VHDL  
-**EDA Tools:** Cadence | Synopsys | ModelSim | Xilinx | Vivado  
-**Programming:** Python | C | Shell  
-**Domains:** RTL | FPGA | ASIC | Verification  
+**Digital & Embedded**
+Verilog • FSM Design • I2C • UART • SPI • ADC • GPIO  
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyarg&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarg&layout=compact&theme=default)  
+**Programming**
+Python • C • Embedded C • SQL  
 
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/adithyarg14/)  
-[Email](mailto:adithyarg14@gmail.com)  
+**Tools**
+Cadence • Vivado • ModelSim • Icarus • GTKWave • Git • Linux  
 
-> “Every transistor counts — precision is the art of chip design.”
+---
+
+## Currently Learning
+
+- Design and verification concepts  
+- Better firmware structure  
+- Data Structures & Algorithms
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/adithyarg14  
+- Email: adithyarg14@gmail.com
