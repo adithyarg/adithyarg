@@ -8,8 +8,7 @@ Electronics Engineer
 ---
 
 ### About Me
-
-- Currently learning digital design flow, verification mindset, and DSA  
+  
 - Enjoy building systems that connect **hardware with code**  
 - Open to learning and collaboration  
 - Reach me at: **adithyarg14@gmail.com**
